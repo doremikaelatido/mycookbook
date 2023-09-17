@@ -1,16 +1,19 @@
 ﻿namespace mycookbooklibrary
 {
-    public class TrieNode
-    {
-        private char charValue;
+	public class TrieNode
+	{
+		public TrieNode(char charValue)
+		{
+			this.CharValue = charValue;
+			this.TopWords = new SortedDictionary<string, int>();
+			this.Children = new Dictionary<char, TrieNode>();
+		}
 
-        public TrieNode(char charValue)
-        {
-            this.charValue = charValue;
-        }
+        public SortedDictionary<string, int> TopWords { get; set; }
 
-        public char CharValue { get { return charValue; } }
-        public Dictionary<char, TrieNode> Children { get; internal set; }
-        public List<KeyValuePair<string, int>> TopWords { get; internal set; }
+        public char CharValue { get; set; }
+
+		public Dictionary<char, TrieNode> Children { get; set; }
     }
 }
+

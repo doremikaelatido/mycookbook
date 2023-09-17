@@ -1,0 +1,12 @@
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/bin/Debug/net6.0/mycookbooklibrary.deps.json
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/bin/Debug/net6.0/mycookbooklibrary.dll
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/bin/Debug/net6.0/mycookbooklibrary.pdb
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.csproj.AssemblyReference.cache
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.AssemblyInfoInputs.cache
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.AssemblyInfo.cs
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.csproj.CoreCompileInputs.cache
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.dll
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/refint/mycookbooklibrary.dll
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/mycookbooklibrary.pdb
+/Users/mikaelanicoleramos/Documents/GitHub/mycookbook/mycookbooklibrary/obj/Debug/net6.0/ref/mycookbooklibrary.dll
