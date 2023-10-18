@@ -1,0 +1,9 @@
+.vs/
+mycookbook/bin/
+mycookbook/obj/
+mycookbook.test/bin/
+mycookbook.test/obj/
+mycookbookAPI.test/bin/
+mycookbookAPI.test/obj/
+mycookbooklibrary/bin/
+mycookbooklibrary/obj/
