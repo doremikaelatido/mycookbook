@@ -7,3 +7,5 @@ mycookbookAPI.test/bin/
 mycookbookAPI.test/obj/
 mycookbooklibrary/bin/
 mycookbooklibrary/obj/
+
+reactapp/node_modules/
